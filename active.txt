@@ -1,9 +1,10 @@
+trojan://humanity@69.84.182.102:443?type=ws&security=tls&path=%2Fassignment&host=www.robotdecorative.com&sni=www.robotdecorative.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MITIVPN%20-%204
+vless://21cd6c0d-0338-4a3a-8cb5-d0d57d0965f6@208.103.161.82:2096?encryption=none&type=xhttp&security=tls&path=%2F&host=peoples.rabiNfaStin.ir&mode=auto&sni=peoples.rabiNfaStin.ir&alpn=h2&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN-1
+trojan://humanity@208.103.161.82:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%20Plus%20%E2%9A%A1%203
 trojan://humanity@208.103.161.200:443?type=ws&security=tls&path=%2Fassignment&host=www.robotdecorative.com&sni=www.robotdecorative.com&fp=chrome&insecure=1&allowInsecure=1#%28%204%20Mci%20%29%20%40MITIVPN%20%E2%AD%90
 trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#Telegram:@config_proxy
-trojan://humanity@208.103.161.82:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%20Plus%20%E2%9A%A1%203
 trojan://humanity@45.67.215.227:443?type=ws&security=tls&path=%2Fassignment&host=www.salonpercent.com&sni=www.salonpercent.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%28%206%20%29%20%40MITIVPN%20%E2%9A%A1
 vless://3d8790ad-07fc-4835-9c72-db0a38c2876a@45.67.215.227:443?encryption=none&type=ws&security=tls&path=%2F&host=install.po2pco.top&sni=install.po2pco.top&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%28%207%20%29%20%40MITIVPN%20%F0%9F%9A%80
-trojan://humanity@208.103.161.110:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#Telegram:@config_proxy
 trojan://humanity@208.103.161.2:443?type=ws&security=tls&path=%2Fassignment&host=www.robotdecorative.com&sni=www.robotdecorative.com&alpn=h2&fp=firefox&insecure=1&allowInsecure=1#%40MiTiVPN%20-%20NetMeli%206
 trojan://humanity@208.103.161.242:443?type=ws&security=tls&path=%2Fassignment&host=www.cordweave.com&sni=www.cordweave.com&insecure=1&allowInsecure=1#%40MiTiVPN%20-%20Plus%20%E2%9A%A1%204
 trojan://humanity@208.103.161.11:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%20King%E2%9A%A1%201
@@ -29,7 +30,6 @@ trojan://humanity@104.16.0.113:443?type=ws&security=tls&path=%2Fassignment&host=
 trojan://humanity@172.67.172.158:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20ViP%208%20%F0%9F%92%A5
 trojan://humanity@188.114.96.7:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20ViP%207%20%F0%9F%92%A5
 trojan://humanity@172.67.203.46:443?type=ws&security=tls&path=%2Fassignment&host=www.cordweave.com&sni=www.cordweave.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20ViP%206%20%F0%9F%92%A5
-trojan://humanity@104.26.13.214:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20ViP%204%F0%9F%92%A5
 trojan://humanity@172.67.74.104:443?type=ws&security=tls&path=%2Fassignment&host=www.salonpercent.com&sni=www.salonpercent.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20ViP%202%20%F0%9F%92%A5
 vless://5c6a7269-7f0b-4af9-a306-3a21d418b36d@www.visa.com:443?path=%2FJOINZEDMODEON&security=tls&encryption=none&host=licensed-crm-apparel-ve.trycloudflare.com&fp=chrome&type=ws&sni=licensed-crm-apparel-ve.trycloudflare.com#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 trojan://humanity@zzula.ir:443?type=ws&security=tls&path=%2Fassignment&host=www.salonpercent.com&sni=www.salonpercent.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20Premium%20%E2%99%A5%EF%B8%8F%204
