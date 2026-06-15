@@ -1,3 +1,4 @@
+vless://8edaa2ae-7c08-4370-93b5-a3c2637bad9d@199.232.79.135:80?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.AQyUbbOYcuQkbAymidfXiqxpfC8UsX1tnoyPE_ljFg0&host=iranclicks23.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy
 vless://a9108c16-3cc9-4f94-bdc4-44fa5e4ee7a9@104.18.26.90:8880?encryption=none&type=xhttp&path=%2F&host=Mmdoof.kosmadar.xyz.&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%40Shh_Proxy-MCI
 vless://a9108c16-3cc9-4f94-bdc4-44fa5e4ee7a9@172.64.152.23:8880?encryption=none&type=xhttp&path=%2F&host=Mmdoof.kosmadar.xyz.&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%40Shh_Proxy-MCI
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86%203
@@ -31,7 +32,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.67:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.250.137.196:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#@Hope_Net-join-us-on-Telegram
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.4:443?security=tls&sni=shg2.azurewebsites.net&type=ws&host=shg2.azurewebsites.net&path=/#@Hope_Net-join-us-on-Telegram
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#Telegram:@config_proxy
-vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@188.114.97.18:443?path=%2Fassets&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#%40unvisible_drops
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%20
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.180.240.91:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Telegram:@config_proxy
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICI1Ny4xMjguMjE2LjEyNSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAic25pIjogImthbXBvbmcub3JnIiwgImluc2VjdXJlIjogIjEifQ==
