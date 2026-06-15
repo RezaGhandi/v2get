@@ -1,3 +1,4 @@
+vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@proxymelimon
 vless://aa00ee71-8676-4191-bee4-4f3a421d23bb@199.34.228.53:443?encryption=none&type=ws&security=tls&path=%2F&host=alferedo.sokotoe2.ir&sni=alferedo.sokotoe2.ir&insecure=0&allowInsecure=0#Vip%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20VIP
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86%202
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86%203
@@ -9,7 +10,6 @@ vmess://eyJhZGQiOiAiY2hhdGdwdC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMixodHRwLzEu
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=diprox.pages.dev&fp=chrome&type=ws&sni=DiprOX.pages.DEV#Telegram:@config_proxy
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40FarazV2ray
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Telegram:@config_proxy
-vless://6253c48d-3148-41e4-808d-9e865bada02f@mtn.ivy-net.ir:2095?path=%2Fmoein%3Fed%3D2095&security=none&encryption=none&host=website.8443.pro.&type=httpupgrade#Telegram:@config_proxy
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?security=tls&type=ws&path=%2F&host=ca.adobe-connect.top&sni=ca.adobe-connect.top&fp=chrome&encryption=none#Telegram:@config_proxy
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=%2F&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#Telegram:@config_proxy
 vless://id8114764549@109.172.87.92:443?security=reality&encryption=none&pbk=0A5HG2mLQuxhnmuc12J2VJiXKS8KlQrSN0gnm42kOUE&headerType=none&fp=chrome&spx=%2F0Fuu4AeB8XffLM2&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=d817#Telegram:@config_proxy
