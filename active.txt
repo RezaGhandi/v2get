@@ -1,3 +1,4 @@
+trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#telegram+%40internet_azad2
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@proxymelimon
 vless://aa00ee71-8676-4191-bee4-4f3a421d23bb@199.34.228.53:443?encryption=none&type=ws&security=tls&path=%2F&host=alferedo.sokotoe2.ir&sni=alferedo.sokotoe2.ir&insecure=0&allowInsecure=0#Vip%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20VIP
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86%202
@@ -25,7 +26,6 @@ vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@shield.zdshop.ir:2053?security=tls&
 vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-enns.kiwijuice.ir&type=ws#Telegram:@config_proxy
 vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@safe.zdshop.ir:2053?security=tls&encryption=none&host=frns-2.certhost.ir&type=ws&sni=frns-2.certhost.ir#Telegram:@config_proxy
 vless://2f380b9d-36f3-4c71-9150-3b4fe5782136@aafc22.lizardshop.org:2095?path=%2Fmammadali&security=none&encryption=none&host=fr0.lizardshop.org&type=httpupgrade#%40NETMelliAnti
-vless://TELEGRAM-NUFiLTER@199.232.236.1:80?mode=packet-up&path=%2FTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%3Fed%3D2056&security=&encryption=none&host=CDN-NUFiLTER.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy
 ss://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#Telegram:@config_proxy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%20
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.27.94:2083?security=tls&sni=aryoovpn.commen-esoteric-0q.workers.dev&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
